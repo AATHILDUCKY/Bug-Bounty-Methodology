@@ -1,17 +1,5 @@
 # Bug-Bounty-Methodology
-These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too!
-If you really like it then don't forget to follow me ❤️
-- [LinkedIn ](https://www.linkedin.com/in/trilokdhaked/)
-- [Twitter](https://twitter.com/TrilokDhaked2)
-- [Instagram ](https://www.instagram.com/trilokdhakedofficial/)
-- [Linktree](https://linktr.ee/Trilokdhakedofficial)
 
- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/TrilokDhaked2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Trilokdhaked2" height="30" width="40" /></a>
-<a href="https://instagram.com/trilokdhakedofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trilokdhakedofficial" height="30" width="40" /></a>
-  <a href="https://medium.com/@trilokdhaked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="trilokdhaked" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/trilokdhaked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/trilokdhaked" height="30" width="40" /></a>
 
 </p>
 
@@ -94,6 +82,4 @@ If you really like it then don't forget to follow me ❤️
   - [x] Payload XSS for each WAF (Cloudflare, Cloudfront, AWS, etc)
   - [ ] Payload SQL injection for each WAF (Cloudflare, Cloudfront)
 
-# Radhe Radhe ❤️ 🙏 Jai shri Krishna ❤️ 🙏  Donation 
 
- <a href="https://www.paypal.me/trilokdhaked" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/PayPal.svg" alt="trilokdhaked" height="30" width="40" /></a>
